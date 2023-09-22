@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Password required" 
+AuthUserFile ./tgs-files/.htpasswd 
+require valid-user
