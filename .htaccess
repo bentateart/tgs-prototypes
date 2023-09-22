@@ -1,4 +1,4 @@
 AuthType Basic 
 AuthName "Password required" 
-AuthUserFile ./tgs-files/.htpasswd 
+AuthUserFile ./tgs_files/.htpasswd 
 require valid-user
